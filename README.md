@@ -26,3 +26,5 @@ Export, This will replace the sacrifical slicer files contents
 8. Gently scrub with brush (Toothbrush)
 9. (Optional) Expose to UV light to harden film of the traces
 10. Add to etching solution
+11. Once bare pcb is visable remove with grabbers
+12. Use acetone (Bath is good) to remove the photoresist traces that are left 
